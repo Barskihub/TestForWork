@@ -7,13 +7,6 @@
     -moz-box-sizing: border-box;
     box-sizing: border-box;
 }
-
-.border_red {
-    border: 3px solid #d24a43;
-}
-.text_red {
-    color: #d24a43;
-}
 /*Start Header*/
 
 /*Logo*/
